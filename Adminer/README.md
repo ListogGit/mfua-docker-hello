@@ -25,7 +25,7 @@
 
     sudo docker ps -a
 
-![alt text](./images/AdminerPs.png)
+![alt text](./img/AdminerPs.png)
 
 В выведенной таблице должен отображаться контейнер adminer со статусом Up. 
 
@@ -34,7 +34,7 @@
 
     http://localhost:8084
 
-![alt text](./images/WorkAdminer.png)
+![alt text](./img/WorkAdminer.png)
 
 На стартовой странице Adminer вам потребуется выбрать тип СУБД (например, MySQL или PostgreSQL) и ввести реквизиты доступа к вашей базе данных (адрес сервера, логин и пароль), которую вы планируете администрировать.
 
