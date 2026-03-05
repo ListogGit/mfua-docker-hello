@@ -32,14 +32,14 @@
 
     apt update && apt install neofetch curl -y
 
-![alt text](./img2.png)
+![alt text](./img/img2.png)
 
 После завершения установки вы можете протестировать их работу. 
 Выведем красивую системную информацию об ОС внутри контейнера:
 
     neofetch
 
-![alt text](./img3.png)
+![alt text](./img/img3.png)
 
 И проверим версию установленной утилиты `curl`:
 

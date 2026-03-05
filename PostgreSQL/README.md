@@ -31,7 +31,7 @@
 
     docker ps -a
 
-![alt text](./img1.png)
+![alt text](./img/img1.png)
 
 В выведенной таблице должен отображаться контейнер `my-postgres` со статусом `Up`. 
 
@@ -40,7 +40,7 @@
 
     docker exec -it my-postgres psql -U postgres
 
-![alt text](./img2.png)
+![alt text](./img/img2.png)
 
 **Что делает эта команда:**
 * `docker exec -it` — запускает команду внутри уже работающего контейнера в интерактивном режиме.
